@@ -2,9 +2,10 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Meu mais novo blog! Agora baseado no Jekyll Now. Em fase de customização.
 
 ### More Information
 
