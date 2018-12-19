@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Posts Antigos #2] Gerador de funções com Intel Galileo, um resistor e um capacitor
+title: Posts Antigos 2 - Gerador de funções com Intel Galileo, um resistor e um capacitor
 published: false
 ---
 Esse post vai mostrar uma maneira de se fazer um gerador de funções usando a placa Galileo Gen2, a IDE do Arduino para programação e um filtro passa-baixas. Com certeza não é o projeto de gerador de funções mais preciso e eficiente de todos, mas me ajudou a entender um pouco mais sobre a placa da Intel e seus limites, além de aprender como fazer um programa com mais de um arquivo na IDE do Arduino.
