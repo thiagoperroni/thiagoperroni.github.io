@@ -1,16 +1,18 @@
 ---
 layout: page
-title: About
+title: Sobre
 permalink: /about/
 published: true
 ---
 
-Meu mais novo blog! Agora baseado no Jekyll Now. Em fase de customização.
+Blog pessoal de um estudante de engenharia eletrônica que mora na capital de São Paulo. 
 
-### More Information
+Sejam bem vindos!
 
-A place to include any other types of information that you'd like to include about yourself.
+--### More Information
 
-### Contact me
+--A place to include any other types of information that you'd like to include about yourself.
 
-[email@domain.com](mailto:email@domain.com)
+--### Contact me
+
+--[thiagomeletti23@gmail.com](mailto:thiagomeletti23@gmail.com)
