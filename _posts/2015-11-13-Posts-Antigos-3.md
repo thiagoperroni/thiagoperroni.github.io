@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Posts Antigos #3] Primeiros Passos com o ESP8266
+title: Posts Antigos 3 - Primeiros Passos com o ESP8266
 published: false
 ---
  O ESP8266 é um microcontrolador fabricado pela Espressif. O chip ficou bem famoso na comunidade Maker por ter conexão WiFi e custar algo em torno de 3 dólares. Ele é muito útil para aplicações de internet das coisas e automação residencial. Pude trabalhar com a breakout mais comum do chip, a ESP8266-01, e nesse post mostrarei quais são os primeiros passos a serem feitos após ter uma plaquinha dessas em mãos.
