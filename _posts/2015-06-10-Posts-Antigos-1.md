@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Posts Antigos #1] Acessando o console do linux embarcado na placa Intel Galileo Gen 2
+title: Posts Antigos 1 - Acessando o console do linux embarcado na placa Intel Galileo Gen 2
 published: false
 ---
 Como todos sabem, a Intel Galileo possui um sistema operacional Linux embarcado dentro dela. Logo, é bem útil que se possa acessar seu console para executar alguns comandos como acionar portas digitais e mudar as configurações das saídas PWM. Este post irá mostrar um tutorial de como acessar o console do Linux de uma Intel Galileo Gen 2 usando um terminal de comunicação serial e um cabo FTDI. Antes de começar, você irá precisar de:(além de um computador com entrada USB e a Intel Galileo Gen 2, claro)
