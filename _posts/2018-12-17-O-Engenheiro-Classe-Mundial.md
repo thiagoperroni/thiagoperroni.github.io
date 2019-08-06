@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Um Engenheiro Classe Munidal
+title: Um Engenheiro Classe Mundial
 published: true
 ---
 O texto abaixo foi livremente trduzido do livro *Design for Electrical and Computer Engineers*, de Ralph Ford e Chris Coulston, que por sua vez dá seus créditos ao [The Leonhard Center for Enhancement of Engineering Education](https://www.engr.psu.edu/leonhardcenter/). A ideia é mostrar quais seriam as características de um engenheiro de classe mundial (The World-Class Engineer).
